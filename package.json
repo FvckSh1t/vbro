@@ -1,0 +1,19 @@
+{
+	"name": "vbro",
+	"version": "0.0.0",
+	"description": "A web-based web browser, supporting highly-DIY JS plugins",
+	"author": {
+		"name": "Fritz-Lium",
+		"url": "https://github.com/Fritz-Lium"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Fritz-Lium/vbro.git"
+	},
+	"main": "app.js",
+	"dependencies": {
+		"underscore": "1.5.2",
+		"request": "2.27.0",
+		"express": "3.4.0"
+	}
+}
