@@ -13,3 +13,10 @@ results
 
 npm-debug.log
 node_modules
+
+*.project
+*.idea
+*.sublime-project
+*.sublime-workspace
+
+bower_components
